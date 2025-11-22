@@ -1,0 +1,10 @@
+body {
+	margin: 0;
+	font-family: Arial, sans-serif;
+	background-color: rgba(234, 6, 234, 0.434);
+}
+
+.inicio{
+	display: flex;
+	height: 100vh;
+}
